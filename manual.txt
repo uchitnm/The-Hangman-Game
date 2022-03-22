@@ -1,0 +1,21 @@
+                                       ~Hangman~
++--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+		  Let's Learn the Basics.
+	     -----------------------------------------
+1.Click on a letter button to try and guess if that letter is contained within the randomly chosen word.
+
+2.If the letter is in the mystery word it will be displayed in its correct position on the line of dashes that represent each letter of the mystery word.
+
+3.You start with 10 lives/chances and each time your chosen letter does notappear in the word you lose a life ,the Buttons are disabled and the graphics will show a man gradually being hung to represent this.
+
+4.If the Letter are Present in the Word , the Button pressed is disabled.
+
+5.If you have not completed the word within 10 attempts you lose the game and the man would be hung !
+
+6.If you win with least possible attempts , your are awareded with a score of +10 for each remaing lives/chances.
+
+7.You may change the player by : Option -> Player Change ; in the dropdownlist.
+ 
+8.You may change the Game type by :Option -> Change Words; in the dropdownlist.
+
++--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
