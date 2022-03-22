@@ -1,8 +1,8 @@
 {
-    "uchitnm": [
-        70,
-        "uchitnm",
-        "s1056n4329@elearnkvsroblr.in"
+    "<player username>": [
+        <score in  int type>,
+        "<password>",
+        "<mailid of the user>"
     ]
     
 }
