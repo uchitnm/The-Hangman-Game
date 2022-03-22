@@ -7,8 +7,9 @@ Main Objective 	:
 
 To Create the hangman (word-guess) game program in Python. Use words and guesses from a stored file. Use user authentication before starting the app.Store name and score of player in a file. And to Update players scores if it is better for the same player.
 
-                                       		                                       ~Hangman~
-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+
+# Hangman
+
++--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
 > This is a simple classic Hangman Game developed using Python programming language .
 > Standard Modules used :
   - tkinter
@@ -19,7 +20,7 @@ To Create the hangman (word-guess) game program in Python. Use words and guesses
 > User Modules used :
   - mail (E-Mail OTP automation ; Notification for creation, deletion of the player profile Or for Change of Password.)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 1. In the Game of Hangman A word is randomly seleced a secret word from a list of Souce of revelence data of user's choice .
 
 2. The player gets limited chances to guess the word.If he/she have not completed the word within 10 attempts give they lose their game..
@@ -33,7 +34,7 @@ To Create the hangman (word-guess) game program in Python. Use words and guesses
 6.As a hint to guess the WORD a tagline saying the number of letters in the WORD picked is given.
 
 7.Words includes are grouped : Python3 Keywords ; Country Names ; Colours 
-+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+
++--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
 
 > Menu Bar
 ------------------------
