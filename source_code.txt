@@ -4,5 +4,4 @@ Main Objective 	:
 
 To Create the hangman (word-guess) game program in Python. Use words and guesses from a stored file. Use user authentication before starting the app.Store name and score of player in a file. And to Update players scores if it is better for the same player.
 
-Source Code 	:
-
+Source Code 	: `https://github.com/uchitnm/The-Hangman-Game`
