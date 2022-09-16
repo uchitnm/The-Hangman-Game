@@ -1,6 +1,6 @@
 {
     "<player username>": [
-        <score in  int type>,
+        "<score in  int type>",
         "<password>",
         "<mailid of the user>"
     ]
